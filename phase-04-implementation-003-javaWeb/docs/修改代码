@@ -1,0 +1,10 @@
+1.background-image: url(/static/imgs/pic009.jpg);
+2.  <span id="firstline" style="font-size: 22px; color: white">大家好，我是陈明慧，我设计了一个“<span
+		style="font-size: 38px; color: red">流浪地球</span>”的网站！ 欢迎大家观赏,谢谢！
+	</span>
+
+3.<div id="poem-txt"
+		style="display: none; font-size: 18px; color: orange; position:absolute; left :10px;top:50px" >
+		《诗词版"流浪地球"》<br /> <span style="font-size: 18px; color: grey">
+			-李者也 </span><br /> <br />天之下，地之上，苍穹之深气之壮。 <br /> 亿万星辰接大荒，茫茫无际辽且旷。
+	</div>
